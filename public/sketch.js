@@ -32,8 +32,8 @@ function setup() {
 
 function draw() {
   background(255);
-  image(livingRoomImg, width/1.5, height/1.5, 170, 150);
-  
+  image(livingRoomImg, width/1.77, height/1.75, 200, 170);
+  //image(livingRoomImg, width/2, 0, width/2, height);
    
   
   //Chat/experience title for display
