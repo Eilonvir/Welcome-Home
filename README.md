@@ -28,7 +28,7 @@ This project explores how digital communication mediates interactions in shared 
 - Terminal/command line access
 
 ## To see initial video documentation
-
+https://youtube.com/shorts/P6Z8iSlMJBg
 
 ## Credits / Acknowledgements
 Created by Michaella for Workshops in Creative Coding 2
