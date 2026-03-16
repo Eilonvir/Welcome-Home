@@ -1,4 +1,5 @@
 # Welcome Home - Networked Flatmate Chat
+## Author: Michaella Miller 16.3.2026
 A  chat application where I invite users to be my flatmates and complain about the state of their shared flat through a networked interface rather than face to face conversation. This is a simulation that invites playfulness and catharsis into a day to day semi confrontational interaction, that transforms a person we share physical space with into a faceless threat
 
 ## Concept 

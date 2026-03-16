@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
   background: #d3d3d3;
@@ -34,5 +35,3 @@ button {
 button:hover {
   background: #e8e35a;
 }
-
-

@@ -5,7 +5,7 @@ import http from "http";
 import { Server } from "socket.io";
 
 //// REMOVE IF YOU PUT ON RENDER //////
-import open, {openApp, apps} from 'open';//only needed for a simple development tool remove if hosting online see above
+import open, { openApp, apps } from 'open';//only needed for a simple development tool remove if hosting online see above
 //// REMOVE IF YOU PUT ON RENDER //////
 
 const app = express();
@@ -18,7 +18,7 @@ app.use(express.static("public"));
 
 // Setup Our Node.js server to listen to connections
 server.listen(port, () => {
-  console.log("listening on: "+port);
+  console.log("listening on: " + port);
 });
 
 //// REMOVE IF YOU PUT ON RENDER //////
@@ -28,9 +28,9 @@ await open(`http://localhost:${port}`);//opens in your default browser
 
 
 io.on("connection", (socket) => {
-  socket.on("message", (data)=> {
-  socket.broadcast.emit("message", data);
-  console.log(data);
+  socket.on("message", (data) => {
+    socket.broadcast.emit("message", data);
+    console.log(data);
   });
 
 
