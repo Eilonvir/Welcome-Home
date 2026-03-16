@@ -1,7 +1,7 @@
 # Welcome Home - Networked Flatmate Chat
 A  chat application where I invite users to be my flatmates and complain about the state of their shared flat through a networked interface rather than face to face conversation. This is a simulation that invites playfulness and catharsis into a day to day semi confrontational interaction, that transforms a person we share physical space with into a faceless threat
 
-## Concept / Intent
+## Concept 
 This project explores how digital communication mediates interactions in shared physical spaces. It examines the social phenomenon of flatmates using networked platforms to communicate about domestic issues instead of direct conversation, highlighting how technology changes social dynamics in cohabitation.
 
 ## Future Development (if time permits)
@@ -30,9 +30,9 @@ This project explores how digital communication mediates interactions in shared 
 ## To see initial video documentation
 https://youtube.com/shorts/P6Z8iSlMJBg
 
-## Credits / Acknowledgements
+## Credits 
 Created by Michaella for Workshops in Creative Coding 2
 Built upon Socket.io example code from course labs
 
-## Contact / Links
+## Contact
 mijelly@gmail.com
